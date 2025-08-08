@@ -11,7 +11,7 @@
 
 ## **About Me**  
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZtN3VjYnB5YzV1OGVlY3Q0N3J6Ymd4ZG0xZ3BqY2NtY2VtY3F5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Bpme5Lj5sWD2/giphy.gif" width="250" alt="Ichigo Bankai">
+  <img src="https://i.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.webp" width="300" alt="Ichigo Bankai">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Gamer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Animated typing text" />
 </p>
@@ -95,6 +95,3 @@
   <img src="https://komarev.com/ghpvc/?username=Lucasbentoichigo&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 ```
-
-
-
