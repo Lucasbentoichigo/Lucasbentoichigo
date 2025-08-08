@@ -12,7 +12,7 @@
 ## **About Me**
 
 <p align="center">
-  <img src="https://media.tenor.com/V-u0jYcJROkAAAAC/bleach-ichigo.gif" width="300" alt="Ichigo Kurosaki">
+  <img src="https://tenor.com/view/bankai-bleach-ichigo-ichigo-kurosaki-gif-6981984" width="300" alt="Ichigo Kurosaki Bankai">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Gamer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Animated typing text" />
 </p>
@@ -92,7 +92,3 @@
   </a>
 </p>
 ```
-
-
-
-
