@@ -1,11 +1,6 @@
-```markdown
-# Lucas Tavares Bento 
-
-```diff
 - 🔭 Currently exploring Java & Spring ecosystem
 - 🌱 Learning system architecture patterns
 - � Digital craftsman with a gamer soul
-```
 
 ---
 
@@ -94,4 +89,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucasbentoichigo&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
-```
+
+
