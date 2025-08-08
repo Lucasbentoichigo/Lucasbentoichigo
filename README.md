@@ -1,21 +1,17 @@
 ```markdown
-# Hello, I am Lucas Tavares Bento 
-
-<p align="center">
-  <img src="https://media.tenor.com/5q6P0wWZg5AAAAAM/ichigo-hollow.gif" width="300" alt="Ichigo Hollow">
-</p>
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Lucas+Tavares+Bento" alt="Animated Name" /> </p>
 
 ```diff
-+ 🔥 Passionate Developer | Gamer | Tech Enthusiast
++ 🔥 Passionate Developer | Games Enjoyer | Tech Enthusiast
 - 🔭 Currently exploring Java & Spring ecosystem
-- 🫡Learning system architecture patterns
+- 🌱 Learning system architecture patterns
 ```
 
 ---
 
 ## **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Competitive+Gamer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation" />
 </p>
 
 ---
