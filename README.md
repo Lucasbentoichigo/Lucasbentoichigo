@@ -4,7 +4,7 @@
 
 ## **About Me**  
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5jZ2V5dGZ6Z3B0Z3B0Z3B0Z3B0Z3B0Z3B0Z3B0Z3B0Z3B0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bI87XJdQHAAAAAd/deltarune-jevil.gif" width="300" alt="Jevil Deltarune">
+  <img src="https://media.tenor.com/3bI87XJdQHAAAAAd/deltarune-jevil.gif" width="300" alt="Jevil Deltarune">
 </p>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92772&width=350&lines=Hello+World!+I+am+Lucas!" alt="Greeting Animation">
@@ -68,5 +68,6 @@
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
+
 
 
