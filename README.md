@@ -1,25 +1,24 @@
-````markdown
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=350&lines=Hello,+I+am+Lucas+Tavares+Bento" alt="Animated Name" />
-</p>
+```markdown
+# Lucas Tavares Bento 
 
 ```diff
-+ 🎮 Games Enjoyer | 💻 Developer | 🚀 Tech Learner
 - 🔭 Currently exploring Java & Spring ecosystem
 - 🌱 Learning system architecture patterns
-````
+- � Digital craftsman with a gamer soul
+```
 
 ---
 
-## **About Me**
-
+## **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation" />
+  <img src="https://i.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.webp" width="300" alt="Ichigo Bankai">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Gamer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Animated typing text" />
 </p>
 
 ---
 
-## **🛠️ Tools & Platforms**
+## **🛠️ Tools & Platforms**  
 
 <table align="center">
   <tr>
@@ -40,11 +39,29 @@
       <br><sub>MySQL</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br><sub>CSS3</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+      <br><sub>VSCode</sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## **📊 GitHub Analytics**
+## **📊 GitHub Analytics**  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasbentoichigo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
@@ -57,7 +74,7 @@
 
 ---
 
-## **🌐 Connect With Me**
+## **🌐 Connect With Me**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-tavares-bento-18872034a" target="_blank">
@@ -72,5 +89,9 @@
   <a href="mailto:lucas.t.bento@aluno.senai.br">
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucasbentoichigo&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 ```
