@@ -1,8 +1,8 @@
 ```markdown
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Lucas+Tavares+Bento" alt="Animated Name" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Hello%2C+I'm+Lucas+Tavares+Bento" alt="Animated Name" /> </p>
 
 ```diff
-+ 🔥 Passionate Developer | Games Enjoyer | Tech Enthusiast
++ 🎮 Games Enjoyer | 💻 Developer | 🚀 Tech Learner
 - 🔭 Currently exploring Java & Spring ecosystem
 - 🌱 Learning system architecture patterns
 ```
@@ -11,7 +11,7 @@
 
 ## **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation" />
 </p>
 
 ---
@@ -35,24 +35,6 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       <br><sub>MySQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br><sub>HTML5</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br><sub>Git</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
-      <br><sub>VSCode</sub>
     </td>
   </tr>
 </table>
