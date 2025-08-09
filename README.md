@@ -20,16 +20,16 @@
       <br><sub>Java</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" alt="Spring" />
-      <br><sub>Spring</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      <br><sub>CSS3</sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      <br><sub>MySQL</sub>
     </td>
   </tr>
 </table>
@@ -65,4 +65,3 @@
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
-
