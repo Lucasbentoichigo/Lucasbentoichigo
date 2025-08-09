@@ -1,11 +1,12 @@
 
+
 ---
 
 ## **About Me**  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Hello+World%2C+I+am+Lucas" alt="Greeting Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92772&width=350&lines=Hello+World!+I+am+Lucas!" alt="Greeting Animation">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation">
 </p>
 
 ---
@@ -64,6 +65,3 @@
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
-
-
-
