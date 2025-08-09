@@ -1,22 +1,25 @@
-```markdown
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=300&lines=Hello%2C+I'm+Lucas+Tavares+Bento" alt="Animated Name" /> </p>
+````markdown
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=350&lines=Hello,+I+am+Lucas+Tavares+Bento" alt="Animated Name" />
+</p>
 
 ```diff
 + 🎮 Games Enjoyer | 💻 Developer | 🚀 Tech Learner
 - 🔭 Currently exploring Java & Spring ecosystem
 - 🌱 Learning system architecture patterns
-```
+````
 
 ---
 
-## **About Me**  
+## **About Me**
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Passionate+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation" />
 </p>
 
 ---
 
-## **🛠️ Tools & Platforms**  
+## **🛠️ Tools & Platforms**
 
 <table align="center">
   <tr>
@@ -41,7 +44,7 @@
 
 ---
 
-## **📊 GitHub Analytics**  
+## **📊 GitHub Analytics**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasbentoichigo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
@@ -54,7 +57,7 @@
 
 ---
 
-## **🌐 Connect With Me**  
+## **🌐 Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-tavares-bento-18872034a" target="_blank">
