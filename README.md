@@ -1,11 +1,3 @@
-```markdown
-# Lucas Tavares Bento 
-
-```diff
-+ 🎮 Games Enjoyer | 💻 Developer | 🚀 Tech Learner
-- 🔭 Currently exploring Java & Spring ecosystem
-- 🌱 Learning system architecture patterns
-```
 
 ---
 
@@ -72,4 +64,5 @@
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
-```
+
+
