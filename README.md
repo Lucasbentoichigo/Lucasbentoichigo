@@ -32,22 +32,22 @@ Currently exploring the world of **React**, **Node.js** and **mobile development
     <th align="left">📚 Subjects</th>
   </tr>
   <tr>
-    <td align="center"><b>1º Semestre</b></td>
+    <td align="center"><b>1st Semester</b></td>
     <td align="center">✅ Completed</td>
     <td>Requirements Engineering · IoT Network Architecture · Operating Systems · Programming Logic</td>
   </tr>
   <tr>
-    <td align="center"><b>2º Semestre</b></td>
+    <td align="center"><b>2nd Semester</b></td>
     <td align="center">✅ Completed</td>
     <td>Backend Development · Markup Languages · Databases · Project I</td>
   </tr>
   <tr>
-    <td align="center"><b>3º Semestre</b></td>
+    <td align="center"><b>3rd Semester</b></td>
     <td align="center">✅ Completed</td>
     <td>Frontend Development · Backend II · Mobile Development · Project II</td>
   </tr>
   <tr>
-    <td align="center"><b>4º Semestre</b></td>
+    <td align="center"><b>Final Semester</b></td>
     <td align="center">🔄 In progress</td>
     <td>IoT II · Frontend II · Software Testing · Mobile II · Final Project</td>
   </tr>
