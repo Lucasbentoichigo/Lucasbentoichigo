@@ -171,5 +171,5 @@ Currently exploring the world of **React**, **Node.js** and **mobile development
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNneHoxNTA1Y3kwdng5ZjBpcnZhYWI3eXp3YjlxamEwcjJ3cGxudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cwMJVDxHF6fx6/giphy.gif" width="400" alt="Rainbow Dash">
+  <img src="https://media.giphy.com/media/upMEKtG4p7kuRmNOEL/giphy.gif" width="300" alt="Bye - Ichimaru Gin (Bleach)">
 </p>
