@@ -1,6 +1,8 @@
 ## **About Me**  
+
 <p align="center">
-  <img src="https://bleach.dev/static/img/typing.webp" height="128">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGJleG5lODBicDVyZjFkeWh0YnZtM2czNHcwNnl5ZnhhNWo2YzE4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q9Q6qYnygrro1y3SjP/giphy.gif" width="400" alt="GIF do topo">
+</p>
 </p>
 <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92772&width=350&lines=Hello+World!+I+am+Lucas!" alt="Greeting Animation">
@@ -107,5 +109,8 @@
   <a href="mailto:lucas.t.bento@aluno.senai.br">
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+</p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNneHoxNTA1Y3kwdng5ZjBpcnZhYWI3eXp3YjlxamEwcjJ3cGxudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cwMJVDxHF6fx6/200.webp" alt="Rainbow Dash">
 </p>
 
