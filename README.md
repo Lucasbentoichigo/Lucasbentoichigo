@@ -3,12 +3,56 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGJleG5lODBicDVyZjFkeWh0YnZtM2czNHcwNnl5ZnhhNWo2YzE4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q9Q6qYnygrro1y3SjP/giphy.gif" width="400" alt="GIF do topo">
 </p>
-</p>
-<br>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92772&width=350&lines=Hello+World!+I+am+Lucas!" alt="Greeting Animation">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation">
 </p>
+
+### 👋 Hey there!
+
+I'm a **Software Development student at SENAI-SP** 🎓 passionate about building cool things for the web and mobile. I love turning ideas into real applications — especially when they involve games, creative UIs, or solving a problem nobody asked for (yes, I'm into IoT too 🤖).
+
+Currently exploring the world of **React**, **Node.js** and **mobile development with Expo**, always looking for the next tech to break (and fix).
+
+---
+
+### 🎓 My Journey at SENAI-SP
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Development-4th_semester-F92772?style=for-the-badge&logo=gradleplayground&logoColor=white" />
+  <img src="https://img.shields.io/badge/3_of_4_completed-22D3EE?style=for-the-badge" />
+</p>
+
+<table align="center">
+  <tr>
+    <th align="center" width="150">📅 Semester</th>
+    <th align="center" width="150">🎯 Status</th>
+    <th align="left">📚 Subjects</th>
+  </tr>
+  <tr>
+    <td align="center"><b>1º Semestre</b></td>
+    <td align="center">✅ Completed</td>
+    <td>Requirements Engineering · IoT Network Architecture · Operating Systems · Programming Logic</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2º Semestre</b></td>
+    <td align="center">✅ Completed</td>
+    <td>Backend Development · Markup Languages · Databases · Project I</td>
+  </tr>
+  <tr>
+    <td align="center"><b>3º Semestre</b></td>
+    <td align="center">✅ Completed</td>
+    <td>Frontend Development · Backend II · Mobile Development · Project II</td>
+  </tr>
+  <tr>
+    <td align="center"><b>4º Semestre</b></td>
+    <td align="center">🔄 In progress</td>
+    <td>IoT II · Frontend II · Software Testing · Mobile II · Final Project</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -83,13 +127,24 @@
 
 ## **📊 GitHub Analytics**  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasbentoichigo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbentoichigo&layout=compact&langs_count=7&theme=nightowl" />
-</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasbentoichigo&theme=nightowl" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasbentoichigo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasbentoichigo/Lucasbentoichigo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasbentoichigo/Lucasbentoichigo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasbentoichigo/Lucasbentoichigo/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -110,7 +165,11 @@
     <img src="https://img.shields.io/badge/-Academic_Email-005F9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNneHoxNTA1Y3kwdng5ZjBpcnZhYWI3eXp3YjlxamEwcjJ3cGxudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cwMJVDxHF6fx6/200.webp" alt="Rainbow Dash">
+  <img src="https://komarev.com/ghpvc/?username=Lucasbentoichigo&label=Profile%20views&color=F92772&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNneHoxNTA1Y3kwdng5ZjBpcnZhYWI3eXp3YjlxamEwcjJ3cGxudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cwMJVDxHF6fx6/giphy.gif" width="400" alt="Rainbow Dash">
+</p>
