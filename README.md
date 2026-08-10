@@ -1,12 +1,11 @@
 ## **About Me**  
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGJleG5lODBicDVyZjFkeWh0YnZtM2czNHcwNnl5ZnhhNWo2YzE4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q9Q6qYnygrro1y3SjP/giphy.gif" width="400" alt="GIF do topo">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F92772&width=350&lines=Hello+World!+I+am+Lucas!" alt="Greeting Animation">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation">
-</p>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGJleG5lODBicDVyZjFkeWh0YnZtM2czNHcwNnl5ZnhhNWo2YzE4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q9Q6qYnygrro1y3SjP/giphy.gif" width="400" alt="GIF do topo">
 </p>
 
 ### 👋 Hey there!
@@ -51,6 +50,12 @@ Currently exploring the world of **React**, **Node.js** and **mobile development
     <td>IoT II · Frontend II · Software Testing · Mobile II · Final Project</td>
   </tr>
 </table>
+
+<p align="center">
+  <i>Me when the code works on the first try:</i>
+  <br>
+  <img src="https://media.giphy.com/media/Pq2IpEZBq9ksaq7ajm/giphy.gif" width="250" alt="Totodile jumping happy">
+</p>
 
 
 ---
