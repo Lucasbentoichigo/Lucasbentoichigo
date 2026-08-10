@@ -170,6 +170,9 @@ Currently exploring the world of **React**, **Node.js** and **mobile development
   <img src="https://komarev.com/ghpvc/?username=Lucasbentoichigo&label=Profile%20views&color=F92772&style=flat" alt="Profile views" />
 </p>
 
+---
+
+### Thanks for visiting!
 <p align="center">
   <img src="https://media.giphy.com/media/upMEKtG4p7kuRmNOEL/giphy.gif" width="300" alt="Bye - Ichimaru Gin (Bleach)">
 </p>
