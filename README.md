@@ -141,18 +141,7 @@ Currently exploring the world of **React**, **Node.js** and **mobile development
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasbentoichigo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasbentoichigo/Lucasbentoichigo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasbentoichigo/Lucasbentoichigo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucasbentoichigo/Lucasbentoichigo/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ---
-
 ## **🌐 Connect With Me**  
 
 <p align="center">
